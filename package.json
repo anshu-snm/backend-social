@@ -10,7 +10,7 @@
   "keywords": [
     "social"
   ],
-  "author": "CodingNinjas",
+  "author": "Anshu",
   "license": "ISC",
   "dependencies": {
     "connect-flash": "^0.1.1",
